@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66d7cf026feda6820554e675"
+  },
+  "user": {
+    "fname": "Shyam",
+    "lname": "patil",
+    "dob": "24/09/2001",
+    "mobile": 1234567890,
+    "email": "shyam@gmail.com",
+    "password": "$2a$10$34FhFghbFqGmP80jfnJctOT4bIQMoUI0wyC7CO9IsMf/IMnqt/gUu"
+  }
+},
+{
+  "_id": {
+    "$oid": "66d895f02b52398052173a00"
+  },
+  "fname": "Ganesh",
+  "lname": "patil",
+  "dob": "24/09/2002",
+  "mobile": 8805935014,
+  "email": "ganesh@gmail.com",
+  "password": "$2a$10$34FhFghbFqGmP80jfnJctOJ7h32UbtyhEeMO8m5Hz7htPhw1yQ6fe"
+}]
